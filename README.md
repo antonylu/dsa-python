@@ -1,5 +1,8 @@
 # dsa-python
-Sample code from the book Data Structures and Algorithms in Python
+Data Structures and Algorithms in Python
+
+Sample code from the book *Data Structures and Algorithms in Python*
+
 GPL license by Michael T. Goodrich, Roberto Tamassia, and Michael H. Goldwasser
 
 Data Structures and Algorithms in Python
